@@ -7,7 +7,7 @@ print("You will be prompted to solve a math equation")
 print("and you will need to answer within 3 seconds.")
 
 #Prompt 2
-ready = input('Are you ready to playy(y/n)?:\n').lower()
+ready = input('Are you ready to play(y/n)?:\n').lower()
 score = 0
 #Main Game Loop
 while (ready == 'y' or ready == "yes"):
